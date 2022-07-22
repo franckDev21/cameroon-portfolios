@@ -149,6 +149,12 @@ const data = [
     link: "https://dilane3.vercel.app",
     tags: ["FrontEnd", "Backend", "Mobile"],
   },
+  {
+    id: 26,
+    name: "Franck Tiomela",
+    link: "https://mon-blog-creative-code.herokuapp.com/",
+    tags: ["FrontEnd", "Backend", "Scrum"],
+  },
 ];
 
 export default data;
